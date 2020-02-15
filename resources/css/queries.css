@@ -118,13 +118,14 @@
     section { padding: 25px 0; }
     .contact-form {width: 100%; }
     .box img {padding: 25px;}
-    .city-feature {text-align: center;}
+    .city-feature {text-align: left; padding-left: 75px;}
     .cityImg {text-align: center;}
     .centered {text-align: center;}
-    .plan-box ul {padding: 0px 90px;}
+    .plan-box ul {padding: 0px 45px;}
     .plan-box div:first-child {text-align: center;}
     h2 {word-spacing: 0px;}   
     h1 {letter-spacing: 2.5px;} 
     .btn-app img {height: 30px; margin-left: 10px;}
+    
 }
 
