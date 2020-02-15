@@ -125,5 +125,6 @@
     .plan-box div:first-child {text-align: center;}
     h2 {word-spacing: 0px;}   
     h1 {letter-spacing: 2.5px;} 
+    .btn-app img {height: 30px; margin-left: 10px;}
 }
 
